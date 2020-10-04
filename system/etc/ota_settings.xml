@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- location: /system/etc/ota_settings.xml -->
+<resources>
+    <!--address-->
+		<address_login>http://ota.tinno.com/tinnoota/login</address_login>
+    <address_check_version>http://ota.tinno.com/tinnoota/checkversion</address_check_version>
+    <address_download_full>http://ota.tinno.com/tinnoota/downloadfullota</address_download_full>
+    <address_download_delta>http://ota.tinno.com/tinnoota/download</address_download_delta>
+    
+    <!-- for sfr require -->
+    <address_download_begin>http://ota.tinno.com/tinnoota/details!downloadBegin.action</address_download_begin>
+    <address_download_finish>http://ota.tinno.com/tinnoota/details!downloadComplete.action</address_download_finish>
+    <address_update_finish>http://ota.tinno.com/tinnoota/details!updateComplete.action</address_update_finish>
+  
+    <!--other-->
+    <driver_storage>true</driver_storage><!--reserved interface,donot care it!one driver storage or not,vlaue is true or false-->
+    <time_interval>4320</time_interval><!--default value 72*60 minutes-->
+    <time_interval2>1440</time_interval2><!--default value 24*60 minutes-->
+    <sugar_skin>true</sugar_skin><!--common skin or sugar skin -->
+    
+    <!-- for sfr require -->
+    <nw_roaming_can_work>false</nw_roaming_can_work>
+    <nw2G_can_dl>true</nw2G_can_dl>
+    <nw3G_can_dl>true</nw3G_can_dl>
+    <nw4G_can_dl>true</nw4G_can_dl>
+    <nw3G4G_dl_file_size>100</nw3G4G_dl_file_size>
+    
+</resources>

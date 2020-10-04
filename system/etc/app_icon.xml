@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appicon>
+    <classname cname="com.arcsoft.perfect365.WelcomeActivity" pname="com.arcsoft.perfect365" icon="default_perfect_icon.png"	>
+	</classname>
+	<classname cname="com.android.contacts.activities.DialtactsActivity" pname="com.android.contacts" icon="default_phone_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.contacts.DialtactsContactsEntryActivity" pname="com.android.contacts" icon="default_contacts_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.dialer.DialtactsActivity" pname="com.android.dialer" icon="default_phone_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.contacts.activities.PeopleActivity" pname="com.android.contacts" icon="default_contacts_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.stk.StkLauncherActivity" pname="com.android.stk" icon="default_sim_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.stk.StkLauncherActivity" pname="com.android.stk" icon="default_sim_icon.png"
+		>
+	</classname>
+	<classname cname="com.mediatek.todos.TodosActivity" pname="com.mediatek.todos" icon="default_todo_icon.png"
+		>
+	</classname>
+	<classname cname="com.tinno.led.LEDActivity" pname="com.tinno.led" icon="default_led_icon.png"
+		>
+	</classname>
+	<classname cname="com.ape.led.LEDActivity" pname="com.ape.led" icon="default_led_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.videoeditor.ProjectsActivity" pname="com.android.videoeditor" icon="default_movie_rom_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.mms.ui.BootActivity" pname="com.android.mms" icon="default_mms_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.calculator2.Calculator" pname="com.android.calculator2" icon="default_calculator_icon.png"
+		>
+	</classname>
+	<classname cname="com.ape.calculator2.Calculator" pname="com.ape.calculator2" icon="default_calculator_icon.png"
+		>
+	</classname>
+		<classname cname="com.mediatek.notebook.NotesList" pname="com.mediatek.notebook" icon="default_notebook_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.browser.BrowserActivity" pname="com.android.browser" icon="default_browser_icon.png"
+		>
+	</classname>
+		<classname cname="com.mediatek.notebook.NotesList" pname="com.mediatek.notebook" icon="default_notebook_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.soundrecorder.SoundRecorder" pname="com.android.soundrecorder" icon="default_soundrecorder_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.calendar.AllInOneActivity" pname="com.android.calendar" icon="default_calendar_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.settings.Settings" pname="com.android.settings" icon="default_settings_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.settings.SettingsViewPager" pname="com.android.settings" icon="default_settings_icon.png"
+		>
+	</classname>
+	
+		<classname cname="com.android.deskclock.DeskClock" pname="com.android.deskclock" icon="default_deskclock_icon.png"
+		>
+	</classname>
+		<classname cname="com.mediatek.videoplayer.MovieListActivity" pname="com.mediatek.videoplayer" icon="default_videoplayer_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.fmradio.FmMainActivity" pname="com.android.fmradio" icon="default_fmradio_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.quicksearchbox.SearchActivity" pname="com.android.quicksearchbox"  icon="default_quicksearchbox_icon.png"
+		>
+	</classname>
+
+	<classname cname="com.ape.weather.DetailActivity" pname="com.ape.weather" icon="default_weather_icon.png"
+		>
+	</classname>
+	<classname cname="com.mediatek.filemanager.tinnoui.TinnoUIViewPager" pname="com.mediatek.filemanager" icon="default_filemanager_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.fileexplorer.FileExplorerTabActivity" pname="com.android.fileexplorer" icon="default_filemanager_icon.png"
+		>
+	</classname>
+	<classname cname="com.ape.filemanager.FileExplorerTabActivity" pname="com.ape.filemanager" icon="default_filemanager_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.providers.downloads.ui.DownloadList" pname="com.android.providers.downloads.ui" icon="default_downloads_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.gallery3d.app.Gallery" pname="com.android.gallery3d" icon="default_gallery_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.gallery3d.app.GalleryActivity" pname="com.android.gallery3d" icon="default_gallery_icon.png"
+		>
+	</classname>
+		<classname cname="com.android.camera.CameraLauncher" pname="com.android.gallery3d" icon="default_camera_icon.png"
+		>
+	</classname>
+			<classname cname="com.android.music.MusicBrowserActivity" pname="com.android.music" icon="default_music_icon.png"
+		>
+	</classname>
+	<classname cname="com.android.email.activity.Welcome" pname="com.android.email" icon="default_email_icon.png"
+		>
+	</classname>
+	
+	<classname cname="com.tinno.bootoptimize.MainActivity" pname="com.tinno.bootoptimize" icon="default_bootoptimize_icon.png"
+		>
+	</classname>
+	
+	<classname cname="com.mediatek.systemupdate.MainEntry" pname="com.mediatek.systemupdate" icon="default_systemupdate_icon.png"
+		>
+	</classname>
+	
+	<classname cname="com.sugar.userfeedback.MainActivity" pname="com.sugar.userfeedback" icon="default_userfeedback_icon.png"
+		>
+	</classname>
+	
+		<classname cname="com.ape.mirror.MirrorActivity" pname="com.ape.mirror" icon="default_mirror_icon.png"
+		>
+	</classname>
+		<classname cname="com.mediatek.datatransfer.MainActivity" pname="com.mediatek.datatransfer" icon="default_datatransfer_icon.png"
+		>
+	</classname>
+<!--use default app icon -->
+  <default_icon_packagename pname="com.google.android.googlequicksearchbox"></default_icon_packagename>
+  <default_icon_packagename pname="com.android.chrome"></default_icon_packagename>
+  <default_icon_packagename pname="com.google.android.gm"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.apps.plus"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.apps.maps"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.music"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.videos"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.music"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.videos"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.apps.books"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.apps.magazines"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.play.games"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.apps.docs"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.youtube"></default_icon_packagename>
+<default_icon_packagename pname="com.google.android.apps.photos"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.talk"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.gms"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.googlequicksearchbox"></default_icon_packagename>
+
+<default_icon_packagename pname="com.google.android.apps.genie.geniewidget"></default_icon_packagename>
+
+<default_icon_packagename pname="com.android.vending"></default_icon_packagename>
+
+
+<!-- 配置这些应用不显示在ApeLauncher上面 -->
+	<not_show_in_apelauncher_icon_packagename pname="com.miui.mihome2" />
+	<not_show_in_apelauncher_icon_packagename pname="com.android.qworldclock" />
+	<not_show_in_apelauncher_icon_packagename pname="com.android.mms" />
+</appicon>

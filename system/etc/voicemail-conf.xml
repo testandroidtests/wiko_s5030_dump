@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<voicemail>
+<voicemail numeric="20826" carrier="EI Telecom" vmnumber="777" vmtag="Messagerie vocale" />
+<voicemail numeric="20826" carrier="Orange F" vmnumber="777" vmtag="Messagerie vocale" />
+<voicemail numeric="20801" carrier="C le mobile" vmnumber="888" vmtag="Messagerie vocale" />
+<voicemail numeric="20810" carrier="C le mobile" vmnumber="123" vmtag="Messagerie vocale" />
+</voicemail>

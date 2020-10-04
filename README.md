@@ -1,0 +1,13 @@
+# full_s5030-user 5.1 LMY47I 1446104092 release-keys
+- manufacturer: wiko
+- platform: mt6580
+- codename: s5030
+- flavor: full_s5030-user
+- release: 5.1
+- id: LMY47I
+- incremental: 1446104092
+- tags: release-keys
+- fingerprint: WIKO/s5030/s5030:5.1/LMY47I/1446104092:user/release-keys
+- brand: WIKO
+- branch: full_s5030-user-5.1-LMY47I-1446104092-release-keys
+- repo: wiko_s5030_dump

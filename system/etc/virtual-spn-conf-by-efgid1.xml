@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<virtualSpnOverridesByEfGid1 version="1">
+<virtualSpnOverride mccmncgid1="208014e524a31" name="Orange F"/>
+<virtualSpnOverride mccmncgid1="208104e524a31" name="C le mobile"/>
+<virtualSpnOverride mccmncgid1="208264e524a31" name="EI Telecom"/>
+<virtualSpnOverride mccmncgid1="208104d4f42494c45" name="ZERO FORFAIT/BUDGET"/>
+<virtualSpnOverride mccmncgid1="20810ae" name="REGLOMobile"/>
+<virtualSpnOverride mccmncgid1="2081012" name="CORIOLIS"/>
+<virtualSpnOverride mccmncgid1="20823524d4f31" name="Virgin FR"/>
+<virtualSpnOverride mccmncgid1="208104c504d" name="La Poste Mobile"/>
+<virtualSpnOverride mccmncgid1="208104e756d" name="Numericable"/>
+<virtualSpnOverride mccmncgid1="2081013" name="PRIXTEL"/>
+<virtualSpnOverride mccmncgid1="214030008" name="Euskaltel"/>
+<virtualSpnOverride mccmncgid1="2140616" name="Telecable Es"/>
+<virtualSpnOverride mccmncgid1="20601a7ffffffffffffff" name="Telenet"/>
+<virtualSpnOverride mccmncgid1="22201000000000000000001" name="tiscali mobile"/>
+<virtualSpnOverride mccmncgid1="22201000000000000000005" name="Coop Mobile"/>
+<virtualSpnOverride mccmncgid1="206014e524a31" name="Proximus"/>
+<virtualSpnOverride mccmncgid1="208104d4f42494c45" name="SFR"/>
+</virtualSpnOverridesByEfGid1>

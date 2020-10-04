@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources><!-- Client No -->
+<setting type="send_content" name="client_no" value="0000006000"/>
+<!-- 0  sended by sms ; 1 sended by net ; 2 sended by net and sms  -->
+<setting type="send_content" name="send_type" value="1"/>
+<!-- notice switch on or off  , false value is off ; true value is on -->
+<setting type="send_content" name="notice" value="true"/>
+<!-- sts hosturl -->
+<setting type="send_content" name="host_url" value="http://eservice.euwiko.com:8080/euwiko/stsReport?reptype=report"/>
+</resources>
